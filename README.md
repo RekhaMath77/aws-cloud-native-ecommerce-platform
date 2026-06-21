@@ -53,6 +53,8 @@ The portfolio includes five major cloud solutions: cloud migration and cost opti
 
 # 🏗️ Solution Architecture
 
+![AWS Cloud Architecture](aws-cloud-architecture.png)
+
 The multi-vendor e-commerce platform is designed using a cloud-native architecture where users access the application through Route 53 and CloudFront. Application traffic is distributed using Elastic Load Balancers to scalable EC2 instances or containerized services. Product images and static assets are stored in Amazon S3, while transactional data is managed using Amazon RDS and DynamoDB.
 
 Serverless components using AWS Lambda and API Gateway handle event-driven workflows, while Amazon SNS enables notifications and Amazon Cognito manages authentication and user access. Amazon CloudWatch provides monitoring, logging, and operational visibility across the cloud environment.
