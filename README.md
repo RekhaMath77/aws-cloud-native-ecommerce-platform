@@ -191,17 +191,7 @@ Through this project portfolio, I gained practical experience in AWS cloud archi
 aws-cloud-native-ecommerce-platform/
 │
 ├── README.md
-├── architecture/
-│   ├── migration-architecture.png
-│   ├── serverless-search-architecture.png
-│   ├── inventory-management-architecture.png
-│   ├── analytics-dashboard-architecture.png
-│   └── disaster-recovery-architecture.png
-│
-├── documents/
-│   └── project-report.pdf
-│
-└── screenshots/
+└── architecture-overview.png
 ```
 
 ---
