@@ -1,5 +1,10 @@
 # AWS Cloud-Native Multi-Vendor E-Commerce Platform
 
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-orange)
+![Serverless](https://img.shields.io/badge/Serverless-Lambda-blue)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)
+![Architecture](https://img.shields.io/badge/Cloud-Architecture-green)
+
 ## 📌 Project Overview
 
 This repository showcases a comprehensive AWS cloud-native solution portfolio developed for a multi-vendor e-commerce platform. The project focuses on designing scalable, secure, highly available, and cost-efficient cloud solutions by leveraging various AWS services and cloud architecture best practices.
