@@ -12,6 +12,15 @@ Experience the deployed e-commerce application hosted on AWS S3 Static Website H
 🌐 **Live Website:**  
 https://ecommercef13.s3.ap-south-1.amazonaws.com/ecommerce.html
 
+## ⭐ Key Highlights
+
+- Designed a cloud-native multi-vendor e-commerce architecture on AWS.
+- Deployed a live e-commerce website using Amazon S3 Static Website Hosting.
+- Designed scalable and highly available solutions using EC2, Auto Scaling, Load Balancer, CloudFront, and Route 53.
+- Implemented serverless workflows using AWS Lambda and API Gateway.
+- Designed data solutions using Amazon RDS and DynamoDB for structured and NoSQL workloads.
+- Applied monitoring, security, cost optimization, and disaster recovery best practices using CloudWatch, IAM, and backup strategies.
+
 ## 📌 Project Overview
 
 This repository showcases a comprehensive AWS cloud-native solution portfolio developed for a multi-vendor e-commerce platform. The project focuses on designing scalable, secure, highly available, and cost-efficient cloud solutions by leveraging various AWS services and cloud architecture best practices.
