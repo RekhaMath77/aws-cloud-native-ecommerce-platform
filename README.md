@@ -5,9 +5,11 @@
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)
 ![Architecture](https://img.shields.io/badge/Cloud-Architecture-green)
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-🚀 **Access the Live E-Commerce Website:**  
+Experience the deployed e-commerce application hosted on AWS S3 Static Website Hosting.
+
+🌐 **Live Website:**  
 https://ecommercef13.s3.ap-south-1.amazonaws.com/ecommerce.html
 
 ## 📌 Project Overview
