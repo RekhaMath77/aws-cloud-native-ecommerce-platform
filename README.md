@@ -5,6 +5,11 @@
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)
 ![Architecture](https://img.shields.io/badge/Cloud-Architecture-green)
 
+## 🌐 Live Demo
+
+🚀 **Access the Live E-Commerce Website:**  
+https://ecommercef13.s3.ap-south-1.amazonaws.com/ecommerce.html
+
 ## 📌 Project Overview
 
 This repository showcases a comprehensive AWS cloud-native solution portfolio developed for a multi-vendor e-commerce platform. The project focuses on designing scalable, secure, highly available, and cost-efficient cloud solutions by leveraging various AWS services and cloud architecture best practices.
