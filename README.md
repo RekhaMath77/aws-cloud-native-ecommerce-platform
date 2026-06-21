@@ -197,6 +197,10 @@ aws-cloud-native-ecommerce-platform/
 * Enhance observability with additional monitoring and logging solutions.
 * Expand disaster recovery strategy with multi-region active-active architecture.
 
+  ## 📌 Note
+
+This repository represents a cloud solution portfolio developed as part of hands-on AWS Cloud internship experience, focusing on architecture design, cloud services, scalability, high availability, and best practices.
+
 ---
 
 ## 👨‍💻 Author
